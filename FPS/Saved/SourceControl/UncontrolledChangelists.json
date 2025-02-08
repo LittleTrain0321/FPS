@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/WYProject/StudyGit/FPS/FPS/Content/NewLevelSequence.uasset",
+				"D:/WYProject/StudyGit/FPS/FPS/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/LS/36L5TNHP48TQLIANRG8B0T.uasset",
+				"D:/WYProject/StudyGit/FPS/FPS/Content/ThirdPerson/Maps/ThirdPersonMap.umap"
+			]
+		}
+	]
+}
