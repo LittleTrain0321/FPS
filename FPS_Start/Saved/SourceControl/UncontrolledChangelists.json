@@ -1,0 +1,53 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/WYProject/StudyGit/FPS/FPS_Start/Content/Blueprints/Character/BP_Player.uasset",
+				"D:/WYProject/StudyGit/FPS/FPS_Start/Content/Testmap.umap",
+				"D:/WYProject/StudyGit/FPS/FPS_Start/Content/Blueprints/Character/BS_Player.uasset",
+				"D:/WYProject/StudyGit/FPS/FPS_Start/Content/FPS_Assault_Pack/Animations/RU74/A_Arms_RU74_Bolt_Check.uasset",
+				"D:/WYProject/StudyGit/FPS/FPS_Start/Content/FPS_Assault_Pack/Animations/RU74/A_Arms_RU74_Equip.uasset",
+				"D:/WYProject/StudyGit/FPS/FPS_Start/Content/FPS_Assault_Pack/Animations/RU74/A_Arms_RU74_Holster.uasset",
+				"D:/WYProject/StudyGit/FPS/FPS_Start/Content/FPS_Assault_Pack/Animations/RU74/A_Arms_RU74_Idle01.uasset",
+				"D:/WYProject/StudyGit/FPS/FPS_Start/Content/FPS_Assault_Pack/Animations/RU74/A_Arms_RU74_Idle02.uasset",
+				"D:/WYProject/StudyGit/FPS/FPS_Start/Content/FPS_Assault_Pack/Animations/RU74/A_Arms_RU74_Isight_Idle01.uasset",
+				"D:/WYProject/StudyGit/FPS/FPS_Start/Content/FPS_Assault_Pack/Animations/RU74/A_Arms_RU74_Isight_Shoot01.uasset",
+				"D:/WYProject/StudyGit/FPS/FPS_Start/Content/FPS_Assault_Pack/Animations/RU74/A_Arms_RU74_Isight_Walk_FWD.uasset",
+				"D:/WYProject/StudyGit/FPS/FPS_Start/Content/FPS_Assault_Pack/Animations/RU74/A_Arms_RU74_Melee.uasset",
+				"D:/WYProject/StudyGit/FPS/FPS_Start/Content/FPS_Assault_Pack/Animations/RU74/A_Arms_RU74_Reload.uasset",
+				"D:/WYProject/StudyGit/FPS/FPS_Start/Content/FPS_Assault_Pack/Animations/RU74/A_Arms_RU74_Reload_Empty.uasset",
+				"D:/WYProject/StudyGit/FPS/FPS_Start/Content/FPS_Assault_Pack/Animations/RU74/A_Arms_RU74_Shoot01.uasset",
+				"D:/WYProject/StudyGit/FPS/FPS_Start/Content/FPS_Assault_Pack/Animations/RU74/A_Arms_RU74_Shoot02.uasset",
+				"D:/WYProject/StudyGit/FPS/FPS_Start/Content/FPS_Assault_Pack/Animations/RU74/A_Arms_RU74_Sprint_FWD.uasset",
+				"D:/WYProject/StudyGit/FPS/FPS_Start/Content/FPS_Assault_Pack/Animations/RU74/A_Arms_RU74_Walk_FWD.uasset",
+				"D:/WYProject/StudyGit/FPS/FPS_Start/Content/FPS_Assault_Pack/Animations/RU74/Deaths_Walk_Forward_Decked.uasset",
+				"D:/WYProject/StudyGit/FPS/FPS_Start/Content/Blueprints/Character/ABP_Player.uasset",
+				"D:/WYProject/StudyGit/FPS/FPS_Start/Content/Blueprints/Character/Input/IA_Look.uasset",
+				"D:/WYProject/StudyGit/FPS/FPS_Start/Content/Blueprints/Character/Input/IMC_Base.uasset",
+				"D:/WYProject/StudyGit/FPS/FPS_Start/Content/Blueprints/Character/Input/IA_Move.uasset",
+				"D:/WYProject/StudyGit/FPS/FPS_Start/Content/Blueprints/Character/Input/IA_Run.uasset",
+				"D:/WYProject/StudyGit/FPS/FPS_Start/Content/Scene/CoffeeShopA/Maps/CoffeeShopA/CoffeeShopA_P.umap",
+				"D:/WYProject/StudyGit/FPS/FPS_Start/Content/Sounds/FootstepSound/Dirt/footstep_dirt_walk_run_01_Cue.uasset",
+				"D:/WYProject/StudyGit/FPS/FPS_Start/Content/Sounds/FootstepSound/FootStepAttenuation.uasset",
+				"D:/WYProject/StudyGit/FPS/FPS_Start/Content/Blueprints/Character/Input/IA_Aim.uasset",
+				"D:/WYProject/StudyGit/FPS/FPS_Start/Content/FPS_Assault_Pack/Animations/RU74/A_Arms_RU74_Isight_Shoot01_Montage.uasset",
+				"D:/WYProject/StudyGit/FPS/FPS_Start/Content/FPS_Assault_Pack/Animations/RU74/A_Arms_RU74_Shoot02_Montage.uasset",
+				"D:/WYProject/StudyGit/FPS/FPS_Start/Content/Blueprints/Character/Input/IA_Fire.uasset",
+				"D:/WYProject/StudyGit/FPS/FPS_Start/Content/Blueprints/Weapon/BP_Weapon.uasset",
+				"D:/WYProject/StudyGit/FPS/FPS_Start/Content/FPS_Assault_Pack/FPS_Arms/Meshes/Arms/SK_Custom_Arms_Skeleton.uasset",
+				"D:/WYProject/StudyGit/FPS/FPS_Start/Content/Blueprints/Weapon/ABP_Weapon.uasset",
+				"D:/WYProject/StudyGit/FPS/FPS_Start/Content/FPS_Assault_Pack/Animations/RU74/A_RU74_Shoot01_Montage.uasset",
+				"D:/WYProject/StudyGit/FPS/FPS_Start/Content/Sounds/Weapon/AK74/WAV_AK74M_Fire_Cue.uasset",
+				"D:/WYProject/StudyGit/FPS/FPS_Start/Content/FPS_Assault_Pack/Animations/RU74/A_RU74_Shoot01.uasset",
+				"D:/WYProject/StudyGit/FPS/FPS_Start/Content/Blueprints/Weapon/BP_Bullet.uasset",
+				"D:/WYProject/StudyGit/FPS/FPS_Start/Content/FPS_Assault_Pack/Meshes/RU74/SK_RU74_Skeleton.uasset",
+				"D:/WYProject/StudyGit/FPS/FPS_Start/Content/Sounds/BulletImpact/Concrete/bullet_impact_concrete_brick_01_Cue.uasset",
+				"D:/WYProject/StudyGit/FPS/FPS_Start/Content/Sounds/NewSoundAttenuation.uasset",
+				"D:/WYProject/StudyGit/FPS/FPS_Start/Content/Sounds/FootstepSound/NewSoundAttenuation.uasset"
+			]
+		}
+	]
+}
