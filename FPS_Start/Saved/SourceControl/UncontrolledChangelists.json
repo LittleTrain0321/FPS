@@ -45,6 +45,9 @@
 				"D:/WYProject/StudyGit/FPS/FPS_Start/Content/Blueprints/Weapon/BP_Bullet.uasset",
 				"D:/WYProject/StudyGit/FPS/FPS_Start/Content/FPS_Assault_Pack/Meshes/RU74/SK_RU74_Skeleton.uasset",
 				"D:/WYProject/StudyGit/FPS/FPS_Start/Content/Sounds/BulletImpact/Concrete/bullet_impact_concrete_brick_01_Cue.uasset",
+				"D:/WYProject/StudyGit/FPS/FPS_Start/Content/Sounds/Weapon/AK74/gun_rifle_dry_fire_01_Cue.uasset",
+				"D:/WYProject/StudyGit/FPS/FPS_Start/Content/Sounds/Weapon/AK74/Mag_In/AudioWave/Weapon_Mag_In_02_Cue.uasset",
+				"D:/WYProject/StudyGit/FPS/FPS_Start/Content/Sounds/Weapon/AK74/Mag_Out/AudioWave/Weapon_Mag_Out_10_Cue.uasset",
 				"D:/WYProject/StudyGit/FPS/FPS_Start/Content/Sounds/NewSoundAttenuation.uasset",
 				"D:/WYProject/StudyGit/FPS/FPS_Start/Content/Sounds/FootstepSound/NewSoundAttenuation.uasset"
 			]
