@@ -48,6 +48,12 @@
 				"D:/WYProject/StudyGit/FPS/FPS_Start/Content/Sounds/Weapon/AK74/gun_rifle_dry_fire_01_Cue.uasset",
 				"D:/WYProject/StudyGit/FPS/FPS_Start/Content/Sounds/Weapon/AK74/Mag_In/AudioWave/Weapon_Mag_In_02_Cue.uasset",
 				"D:/WYProject/StudyGit/FPS/FPS_Start/Content/Sounds/Weapon/AK74/Mag_Out/AudioWave/Weapon_Mag_Out_10_Cue.uasset",
+				"D:/WYProject/StudyGit/FPS/FPS_Start/Content/FPS_Assault_Pack/Animations/RU74/A_Arms_RU74_Reload_Empty_Montage.uasset",
+				"D:/WYProject/StudyGit/FPS/FPS_Start/Content/FPS_Assault_Pack/Animations/RU74/A_Arms_RU74_Reload_Montage.uasset",
+				"D:/WYProject/StudyGit/FPS/FPS_Start/Content/FPS_Assault_Pack/Animations/RU74/A_RU74_Reload_Empty_Montage.uasset",
+				"D:/WYProject/StudyGit/FPS/FPS_Start/Content/FPS_Assault_Pack/Animations/RU74/A_RU74_Reload_Montage.uasset",
+				"D:/WYProject/StudyGit/FPS/FPS_Start/Content/Blueprints/Character/Input/IA_Reload.uasset",
+				"D:/WYProject/StudyGit/FPS/FPS_Start/Content/Blueprints/Weapon/MAT_BulletLight.uasset",
 				"D:/WYProject/StudyGit/FPS/FPS_Start/Content/Sounds/NewSoundAttenuation.uasset",
 				"D:/WYProject/StudyGit/FPS/FPS_Start/Content/Sounds/FootstepSound/NewSoundAttenuation.uasset"
 			]
