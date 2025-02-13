@@ -54,6 +54,8 @@
 				"D:/WYProject/StudyGit/FPS/FPS_Start/Content/FPS_Assault_Pack/Animations/RU74/A_RU74_Reload_Montage.uasset",
 				"D:/WYProject/StudyGit/FPS/FPS_Start/Content/Blueprints/Character/Input/IA_Reload.uasset",
 				"D:/WYProject/StudyGit/FPS/FPS_Start/Content/Blueprints/Weapon/MAT_BulletLight.uasset",
+				"D:/WYProject/StudyGit/FPS/FPS_Start/Content/Blueprints/Zombie/ABP_ZombieEnemy.uasset",
+				"D:/WYProject/StudyGit/FPS/FPS_Start/Content/Blueprints/Zombie/BP_Zombie.uasset",
 				"D:/WYProject/StudyGit/FPS/FPS_Start/Content/Sounds/NewSoundAttenuation.uasset",
 				"D:/WYProject/StudyGit/FPS/FPS_Start/Content/Sounds/FootstepSound/NewSoundAttenuation.uasset"
 			]
