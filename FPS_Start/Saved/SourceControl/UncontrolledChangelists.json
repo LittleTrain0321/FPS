@@ -70,6 +70,18 @@
 				"D:/WYProject/StudyGit/FPS/FPS_Start/Content/ShirtlessZombiesPack/Zombie_Pack/Animations/InPlace/Hits/Zombie_HitReact_Head_Montage.uasset",
 				"D:/WYProject/StudyGit/FPS/FPS_Start/Content/ShirtlessZombiesPack/Zombie_Pack/Animations/InPlace/Hits/Zombie_HitReact_LeftArm_Montage.uasset",
 				"D:/WYProject/StudyGit/FPS/FPS_Start/Content/ShirtlessZombiesPack/Zombie_Pack/Animations/InPlace/Hits/Zombie_HitReact_RightArm_Montage.uasset",
+				"D:/WYProject/StudyGit/FPS/FPS_Start/Content/ShirtlessZombiesPack/Zombie_Pack/Animations/InPlace/Attacks/RM_LeftAttack_Charged_02_Montage.uasset",
+				"D:/WYProject/StudyGit/FPS/FPS_Start/Content/ShirtlessZombiesPack/Zombie_Pack/Animations/InPlace/Attacks/RM_RightAttack_Charged_01_Montage.uasset",
+				"D:/WYProject/StudyGit/FPS/FPS_Start/Content/ShirtlessZombiesPack/Zombie_Pack/Animations/InPlace/Attacks/RM_RightAttack_Charged_02_Montage.uasset",
+				"D:/WYProject/StudyGit/FPS/FPS_Start/Content/ShirtlessZombiesPack/Zombie_Pack/Animations/InPlace/Attacks/RM_RightAttack_Charged_03_Montage.uasset",
+				"D:/WYProject/StudyGit/FPS/FPS_Start/Content/ShirtlessZombiesPack/Zombie_Pack/Bonus_Audio_Animations/Attack/Zombie_as_attack1_one_shot_01_Cue.uasset",
+				"D:/WYProject/StudyGit/FPS/FPS_Start/Content/ShirtlessZombiesPack/Zombie_Pack/Animations/InPlace/Attacks/RM_LeftAttack_Charged_02.uasset",
+				"D:/WYProject/StudyGit/FPS/FPS_Start/Content/ShirtlessZombiesPack/Zombie_Pack/Animations/InPlace/Attacks/RM_RightAttack_Charged_01.uasset",
+				"D:/WYProject/StudyGit/FPS/FPS_Start/Content/ShirtlessZombiesPack/Zombie_Pack/Animations/InPlace/Attacks/RM_RightAttack_Charged_02.uasset",
+				"D:/WYProject/StudyGit/FPS/FPS_Start/Content/ShirtlessZombiesPack/Zombie_Pack/Animations/InPlace/Attacks/RM_RightAttack_Charged_03.uasset",
+				"D:/WYProject/StudyGit/FPS/FPS_Start/Content/Blueprints/Zombie/AN_Attack.uasset",
+				"D:/WYProject/StudyGit/FPS/FPS_Start/Content/Blueprints/Zombie/AN_AttackEnd.uasset",
+				"D:/WYProject/StudyGit/FPS/FPS_Start/Content/Blueprints/Zombie/AN_AttackStart.uasset",
 				"D:/WYProject/StudyGit/FPS/FPS_Start/Content/Sounds/NewSoundAttenuation.uasset",
 				"D:/WYProject/StudyGit/FPS/FPS_Start/Content/Sounds/FootstepSound/NewSoundAttenuation.uasset"
 			]
